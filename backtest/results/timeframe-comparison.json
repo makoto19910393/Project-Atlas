@@ -1,0 +1,73 @@
+{
+  "data_kind": "identical_underlying_synthetic_m5_paths_not_market_history",
+  "years_per_timeframe": 20,
+  "drawdown_ceiling_percent": 40.0,
+  "comparison": [
+    {
+      "timeframe": "M5",
+      "bars_per_year": 105120,
+      "breakout_period": 30,
+      "trend_ema_period": 600,
+      "median_annual_return_percent": 1014609.52,
+      "minimum_annual_return_percent": 110818.63,
+      "maximum_annual_drawdown_percent": 49.03,
+      "median_trades": 1362.0,
+      "minimum_profit_factor": 1.313
+    },
+    {
+      "timeframe": "M15",
+      "bars_per_year": 35040,
+      "breakout_period": 10,
+      "trend_ema_period": 200,
+      "median_annual_return_percent": 474711.45,
+      "minimum_annual_return_percent": 139799.03,
+      "maximum_annual_drawdown_percent": 30.79,
+      "median_trades": 624.5,
+      "minimum_profit_factor": 1.72
+    },
+    {
+      "timeframe": "M30",
+      "bars_per_year": 17520,
+      "breakout_period": 5,
+      "trend_ema_period": 100,
+      "median_annual_return_percent": 83609.9,
+      "minimum_annual_return_percent": 29857.71,
+      "maximum_annual_drawdown_percent": 22.48,
+      "median_trades": 371.5,
+      "minimum_profit_factor": 2.425
+    },
+    {
+      "timeframe": "H1",
+      "bars_per_year": 8760,
+      "breakout_period": 3,
+      "trend_ema_period": 50,
+      "median_annual_return_percent": 14801.54,
+      "minimum_annual_return_percent": 6205.93,
+      "maximum_annual_drawdown_percent": 18.09,
+      "median_trades": 223.0,
+      "minimum_profit_factor": 3.058
+    },
+    {
+      "timeframe": "H4",
+      "bars_per_year": 2190,
+      "breakout_period": 2,
+      "trend_ema_period": 13,
+      "median_annual_return_percent": 443.67,
+      "minimum_annual_return_percent": 213.73,
+      "maximum_annual_drawdown_percent": 7.46,
+      "median_trades": 84.5,
+      "minimum_profit_factor": 2.55
+    }
+  ],
+  "selected": {
+    "timeframe": "M15",
+    "bars_per_year": 35040,
+    "breakout_period": 10,
+    "trend_ema_period": 200,
+    "median_annual_return_percent": 474711.45,
+    "minimum_annual_return_percent": 139799.03,
+    "maximum_annual_drawdown_percent": 30.79,
+    "median_trades": 624.5,
+    "minimum_profit_factor": 1.72
+  }
+}

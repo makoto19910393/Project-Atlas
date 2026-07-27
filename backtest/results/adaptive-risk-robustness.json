@@ -1,0 +1,175 @@
+{
+  "data_kind": "twenty_deterministic_synthetic_seeds_not_market_history",
+  "years": 20,
+  "months": 240,
+  "ten_x_months": 0,
+  "ten_x_month_rate_percent": 0.0,
+  "profitable_months": 190,
+  "profitable_month_rate_percent": 79.17,
+  "median_of_yearly_median_returns_percent": 25.08,
+  "worst_month_return_percent": -31.39,
+  "maximum_monthly_drawdown_percent": 39.23,
+  "target_validated": false,
+  "yearly_results": [
+    {
+      "seed": 26072026,
+      "profitable_months": 11,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 28.85,
+      "worst_month_return_percent": -28.23,
+      "maximum_monthly_drawdown_percent": 32.61
+    },
+    {
+      "seed": 26072027,
+      "profitable_months": 11,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 21.12,
+      "worst_month_return_percent": -25.11,
+      "maximum_monthly_drawdown_percent": 39.23
+    },
+    {
+      "seed": 26072028,
+      "profitable_months": 7,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 5.65,
+      "worst_month_return_percent": -31.39,
+      "maximum_monthly_drawdown_percent": 33.68
+    },
+    {
+      "seed": 26072029,
+      "profitable_months": 8,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 18.96,
+      "worst_month_return_percent": -16.79,
+      "maximum_monthly_drawdown_percent": 33.69
+    },
+    {
+      "seed": 26072030,
+      "profitable_months": 8,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 7.22,
+      "worst_month_return_percent": -15.77,
+      "maximum_monthly_drawdown_percent": 30.12
+    },
+    {
+      "seed": 26072031,
+      "profitable_months": 10,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 18.96,
+      "worst_month_return_percent": -16.39,
+      "maximum_monthly_drawdown_percent": 29.62
+    },
+    {
+      "seed": 26072032,
+      "profitable_months": 11,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 37.71,
+      "worst_month_return_percent": -2.49,
+      "maximum_monthly_drawdown_percent": 25.83
+    },
+    {
+      "seed": 26072033,
+      "profitable_months": 10,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 26.84,
+      "worst_month_return_percent": -15.43,
+      "maximum_monthly_drawdown_percent": 27.1
+    },
+    {
+      "seed": 26072034,
+      "profitable_months": 9,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 27.6,
+      "worst_month_return_percent": -18.35,
+      "maximum_monthly_drawdown_percent": 33.08
+    },
+    {
+      "seed": 26072035,
+      "profitable_months": 11,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 14.18,
+      "worst_month_return_percent": -3.4,
+      "maximum_monthly_drawdown_percent": 27.3
+    },
+    {
+      "seed": 26072036,
+      "profitable_months": 11,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 28.2,
+      "worst_month_return_percent": -14.7,
+      "maximum_monthly_drawdown_percent": 25.88
+    },
+    {
+      "seed": 26072037,
+      "profitable_months": 8,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 28.84,
+      "worst_month_return_percent": -21.97,
+      "maximum_monthly_drawdown_percent": 29.43
+    },
+    {
+      "seed": 26072038,
+      "profitable_months": 10,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 24.97,
+      "worst_month_return_percent": -21.84,
+      "maximum_monthly_drawdown_percent": 38.45
+    },
+    {
+      "seed": 26072039,
+      "profitable_months": 11,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 31.18,
+      "worst_month_return_percent": -4.38,
+      "maximum_monthly_drawdown_percent": 35.06
+    },
+    {
+      "seed": 26072040,
+      "profitable_months": 9,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 25.19,
+      "worst_month_return_percent": -23.01,
+      "maximum_monthly_drawdown_percent": 27.54
+    },
+    {
+      "seed": 26072041,
+      "profitable_months": 10,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 23.41,
+      "worst_month_return_percent": -11.61,
+      "maximum_monthly_drawdown_percent": 28.15
+    },
+    {
+      "seed": 26072042,
+      "profitable_months": 9,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 23.15,
+      "worst_month_return_percent": -25.38,
+      "maximum_monthly_drawdown_percent": 26.75
+    },
+    {
+      "seed": 26072043,
+      "profitable_months": 7,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 29.45,
+      "worst_month_return_percent": -20.16,
+      "maximum_monthly_drawdown_percent": 25.7
+    },
+    {
+      "seed": 26072044,
+      "profitable_months": 9,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 19.34,
+      "worst_month_return_percent": -30.51,
+      "maximum_monthly_drawdown_percent": 36.07
+    },
+    {
+      "seed": 26072045,
+      "profitable_months": 10,
+      "months_reaching_10x": 0,
+      "median_monthly_return_percent": 46.99,
+      "worst_month_return_percent": -18.04,
+      "maximum_monthly_drawdown_percent": 27.81
+    }
+  ]
+}

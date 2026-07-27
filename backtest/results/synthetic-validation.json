@@ -1,0 +1,16 @@
+{
+  "bars": 3000,
+  "from": "2024-01-01T00:00:00+00:00",
+  "to": "2024-02-01T05:45:00+00:00",
+  "initial_equity": 50000.0,
+  "final_equity": 72050.95,
+  "net_profit": 22050.95,
+  "return_percent": 44.1,
+  "trades": 43,
+  "wins": 21,
+  "losses": 22,
+  "win_rate_percent": 48.84,
+  "profit_factor": 1.906,
+  "max_closed_equity_drawdown_percent": 11.02,
+  "cost_bps_per_side": 5.0
+}

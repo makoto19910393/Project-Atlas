@@ -1,0 +1,18 @@
+{
+  "data_kind": "twenty_deterministic_synthetic_annual_paths_not_market_history",
+  "evaluated_configurations": 108,
+  "drawdown_ceiling_percent": 40.0,
+  "eligible_configurations": 38,
+  "selected": {
+    "breakout_period": 10,
+    "trend_ema_period": 200,
+    "stop_atr": 3.0,
+    "target_atr": 6.0,
+    "risk_percent": 2.5,
+    "loss_risk_multiplier": 0.7,
+    "minimum_annual_return_percent": 283.27,
+    "median_annual_return_percent": 2689.8,
+    "maximum_annual_drawdown_percent": 35.49,
+    "minimum_profit_factor": 1.309
+  }
+}
