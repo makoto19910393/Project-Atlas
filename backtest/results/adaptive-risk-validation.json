@@ -1,0 +1,34 @@
+{
+  "data_kind": "deterministic_synthetic_validation_not_market_history",
+  "logic": "increase risk after consecutive wins; reduce risk after consecutive losses",
+  "evaluated_overlays": 276,
+  "selection_policy": "maximize 10x months, then profitable months, then median return; development drawdown <= 35% to reserve a 5-point robustness buffer",
+  "selected": {
+    "base_risk_percent": 3.0,
+    "win_risk_multiplier": 1.0,
+    "loss_risk_multiplier": 0.7,
+    "maximum_risk_percent": 3.0,
+    "profitable_months": 11,
+    "months_reaching_10x": 0,
+    "median_monthly_return_percent": 28.85,
+    "worst_month_return_percent": -28.23,
+    "best_month_return_percent": 102.31,
+    "maximum_monthly_drawdown_percent": 32.61,
+    "monthly_returns_percent": [
+      41.33,
+      13.04,
+      27.55,
+      16.1,
+      16.56,
+      102.31,
+      -28.23,
+      25.98,
+      55.22,
+      34.3,
+      30.15,
+      91.79
+    ]
+  },
+  "target_achieved_consistently": false,
+  "conclusion": "The 40% drawdown ceiling prevented monthly 10x; the selected overlay prioritizes survival over the original target."
+}
